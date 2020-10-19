@@ -1,23 +1,34 @@
 h1 {
     background-color: red;
     text-align: center;
-    padding: 15pt;
+    padding: 15px;
+    margin-bottom: 5pt;
 }
 h2 {
     display: inline-block;
     background-color: rgb(208, 255, 0);
-    padding: 8pt;
-    margin-left: 80pt;
-    margin-bottom: 0pt;
-    margin-top: 0pt;
+    padding: 8px;
+    margin-left: 80px;
+    margin-bottom: 0px;
+    margin-top: 12px;
     border: 2px solid green;
 }
-
+.text {
+    margin-top: 0px;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    font-size: 14pt;
+    font-weight: bolder;
+}
 h3 {
     background-color: royalblue;
     border-radius: 50%;
+    width: 50%;
+    margin: 0 auto;
+    border: 2px solid green;
     text-align: center;
-    padding: 8pt;
+    padding: 8px;
     font-size: 16pt;
 }
 ol {
@@ -29,11 +40,31 @@ img {
     height: 42%;
     margin: 0 auto;
 }
+.table{
+    width: 100%;
+    font-size:16 pt;
+    font-weight: bolder;
+    margin: 0pt;
+    padding-left: 80pt;
+
+    }
+
+.presentTeam {
+
+    display: inline-block;
+    width: 42%
+
+
+}
+
 .capitan-of-team {
     color: red;
 }
+.text2{
+    font-size:16 pt;
+    font-weight: bolder;
+}
 .back-to-begin {
     text-align: center;
-    margin-top: 15pt;
-
+    margin-top: 15px;
 }
