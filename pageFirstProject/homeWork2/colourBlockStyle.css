@@ -1,0 +1,44 @@
+*{
+margin: 0px;
+padding: 0 px;
+}
+.mainBox {
+background-color: black;
+height: 500px;
+width: 1000px;
+padding: 1%;
+}
+.orange {
+width: 100%;
+height: 15%;
+background-color: orange;
+}
+.red {
+width: 25%;
+height: 70%;
+background-color: red;
+float: left;
+}
+.green {
+width: 25%;
+height: 70%;
+background-color: green;
+float:left;
+}
+.blue {
+width: 25%;
+height: 70%;
+background-color: blue;
+float:left;
+}
+.black {
+width: 25%;
+height: 70%;
+background-color: black;
+float:left;
+}
+.orange2{
+height: 15%;
+width: 100%;
+background-color: orange;
+clear: both;
